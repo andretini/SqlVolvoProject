@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Projeto SQL.props" />
+</Project>
